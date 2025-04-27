@@ -1,0 +1,43 @@
+# Core Data Science & Analytics Requirements
+pandas==2.1.0
+numpy==1.24.4
+matplotlib==3.7.2
+seaborn==0.12.2
+scikit-learn==1.3.0
+scipy==1.11.2
+tqdm==4.65.0
+xgboost==1.7.5
+
+# Database & Connectivity
+paramiko==3.3.1
+pymysql==1.1.0
+psycopg2-binary==2.9.9
+pymongo==4.5.0
+python-dotenv==1.0.0
+
+# NLP & Text Processing
+nltk==3.8.1
+
+# LLM & Data Generation Requirements
+torch==2.1.2
+transformers==4.37.2
+accelerate==0.25.0
+safetensors==0.4.1
+sentencepiece==0.1.99
+bitsandbytes==0.41.1
+datasets==2.16.1
+langchain-community==0.0.13
+langchain==0.0.335
+
+# Dashboard & Visualization
+dash==2.14.2
+dash-bootstrap-components==1.5.0
+plotly==5.18.0
+
+# Web & API Requirements
+requests==2.31.0
+flask==2.3.3
+werkzeug==2.3.7
+
+# Utility Packages
+pytz==2023.3
