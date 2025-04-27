@@ -1,0 +1,1 @@
+[{"encryption_used":"AES","attack_detected":0,"count":2651},{"encryption_used":"AES","attack_detected":1,"count":2055},{"encryption_used":"DES","attack_detected":0,"count":1566},{"encryption_used":"DES","attack_detected":1,"count":1299},{"encryption_used":"nan","attack_detected":0,"count":1056},{"encryption_used":"nan","attack_detected":1,"count":910}]

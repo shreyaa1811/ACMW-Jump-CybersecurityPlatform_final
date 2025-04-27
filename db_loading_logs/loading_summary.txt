@@ -1,0 +1,11 @@
+Data Loading Summary
+===================
+
+Total duration: 1913.26 seconds
+
+Status by dataset:
+✅ Intrusion Detection Dataset: Loaded
+✅ AI-Enhanced Events Dataset: Loaded
+✅ Text-based Detection Dataset: Loaded
+🔜 Risk-Based Authentication Dataset: TODO (Shreyaa)
+🔜 Data Visualization Pipeline: TODO (Sivangi)

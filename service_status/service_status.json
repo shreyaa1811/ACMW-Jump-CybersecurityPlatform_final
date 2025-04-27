@@ -1,0 +1,12 @@
+{
+  "status": "stopped",
+  "last_update": "2025-04-27 14:45:58",
+  "data_stats": {
+    "total_events": 0,
+    "latest_event_time": null
+  },
+  "analysis_stats": {
+    "threats_detected": 0,
+    "last_analysis": null
+  }
+}

@@ -1,0 +1,1 @@
+[{"protocol_type":"ICMP","attack_detected":0,"count":298},{"protocol_type":"ICMP","attack_detected":1,"count":209},{"protocol_type":"TCP","attack_detected":0,"count":3661},{"protocol_type":"TCP","attack_detected":1,"count":2963},{"protocol_type":"UDP","attack_detected":0,"count":1314},{"protocol_type":"UDP","attack_detected":1,"count":1092}]

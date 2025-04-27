@@ -1,0 +1,1 @@
+[{"protocol": "ICMP", "normal": 298, "attack": 209}, {"protocol": "TCP", "normal": 3661, "attack": 2963}, {"protocol": "UDP", "normal": 1314, "attack": 1092}]
